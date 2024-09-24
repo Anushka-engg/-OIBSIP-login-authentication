@@ -1,0 +1,45 @@
+body {
+    background-color: #d0bbdf;
+    margin: 10% 20%;
+    color: #174680;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+h1 {
+    padding-bottom: 5%;
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+header {
+    padding: 0;
+    margin: 0 15%;
+    color: #191a27;
+}
+
+.CheckBox {
+    padding: 10%;
+    margin: 5%;
+    background-color: #bedcf9;
+    text-align: center;
+    border-radius: 20px;
+}
+
+input,
+button {
+    margin: 2%;
+}
+
+#rules {
+    padding-top: 2%;
+    display: none;
+}
+
+#rules ul li {
+    text-align: left;
+}
+
+#error {
+    color: rgb(160, 45, 91);
+    display: none;
+}
