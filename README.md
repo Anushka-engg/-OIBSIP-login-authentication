@@ -1,6 +1,7 @@
 # -OIBSIP-login-authentication
 TASK-3
-his project is a simple login authentication system built using HTML, CSS, and JavaScript. It allows users to register, log in, and access a secured page.
+
+Project is a simple login authentication system built using HTML, CSS, and JavaScript. It allows users to register, log in, and access a secured page.
 
 #Features
 User registration
